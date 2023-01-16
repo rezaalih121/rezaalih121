@@ -14,7 +14,7 @@
 
 - 👨‍💻 Projets sur mon portfolio : [À venir..!](#)
 
-- 📃 Mon CV : <a href="https://github.com/rezaalih121/rezaalih121/blob/main/IRANNEJAD_RezaAli_CV_V-1-01.pdf" target="_blank" rel="noreferrer"> <img src="http://careerbuzzworld.com/wp-content/uploads/2017/12/resume-icon.png" alt="angular" width="20" height="20"/> </a>
+- 📃 Mon CV : <a href="/IRANNEJAD_RezaAli_CV_V-1-01.pdf" target="_blank" rel="noreferrer"> <img src="http://careerbuzzworld.com/wp-content/uploads/2017/12/resume-icon.png" alt="angular" width="20" height="20"/> </a>
 
 <h3 align="left">Connect me :</h3>
 <p align="left">
