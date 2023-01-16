@@ -1,4 +1,4 @@
-<a href="/README.md" rel="noreferrer"><img src="https://static.thenounproject.com/png/1482396-200.png" alt="angular" width="40" height="40"/> En </a> <h1 align="center"> 👋 Salut, Bienvenue sur mon Github</h1>
+<a href="https://github.com/rezaalih121" rel="noreferrer"><img src="https://static.thenounproject.com/png/1482396-200.png" alt="angular" width="40" height="40"/> En </a> <h1 align="center"> 👋 Salut, Bienvenue sur mon Github</h1>
 
 <h3 align="center">Je m'appelle Reza ALi, étant toujours un fan d'ordinateurs et de nouvelles technologies, essayant d'apprendre et de mettre à jour mes compétences constamment. </h3>
 
