@@ -14,11 +14,11 @@
 
 - 👨‍💻 Projets sur mon portfolio : [À venir..!](#)
 
-- 📃 Mon CV : <a href="/IRANNEJAD_RezaAli_CV_V-2.pdf" target="_blank" rel="noreferrer"> <img src="http://careerbuzzworld.com/wp-content/uploads/2017/12/resume-icon.png" alt="angular" width="20" height="20"/> </a>
+- 📃 Mon CV : <a href="/IRANNEJAD_RezaAli_CV_V-2.pdf" target="_blank" rel="noreferrer"> 📃 </a>
 
 <h3 align="left">Connect me :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://fr.linkedin.com/in/reza-ali-irannejad-a1b77062/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://fr.linkedin.com/in/reza-ali-irannejad-a1b77062/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/reza-ali-irannejad-a1b77062/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://fr.linkedin.com/in/reza-ali-irannejad-a1b77062/" height="30" width="40" /></a>
 </p>
 
 ### <h3 align="left"> Voici une liste des langages et outils que j'utilise :</h3>
