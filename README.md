@@ -12,6 +12,8 @@
 
 - 📧 Email address : rezaali_121@yahoo.com
 
+- ✅ My personal project : <a href="https://rai-restaurant.work.gd" target="_blank" rel="noreferrer">🍽️ https://rai-restaurant.work.gd</a>
+
 - 👨‍💻 Projects on my portfolio : [coming soon..!](#)
 
 - 📃 My CV : <a href="/IRANNEJAD_RezaAli_CV_V-2.pdf" target="_blank" rel="noreferrer"> 📃</a>
