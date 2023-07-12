@@ -8,11 +8,11 @@
 
 - 🔭 Studied Bachelor of Applied Science (B.A.Sc.)Computer Engineering
 
-- 🌱 Currently learning and updating my skills in **CCI formation - Concepteur Développeur d'Application**
+- ✅ I just finished my study in BAC+3 **CCI formation - Concepteur Développeur d'Application**
 
 - 📧 Email address : rezaali_121@yahoo.com
 
-- ✅ My personal project : <a href="https://rai-restaurant.work.gd" target="_blank" rel="noreferrer">🍽️ https://rai-restaurant.work.gd</a>
+- ✅ CDA Credential Assessment Projects : <a href="https://rai-restaurant.work.gd" target="_blank" rel="noreferrer">🍽️ https://rai-restaurant.work.gd</a>
 
 - 👨‍💻 Projects on my portfolio : [coming soon..!](#)
 

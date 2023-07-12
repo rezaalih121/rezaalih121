@@ -8,11 +8,11 @@
 
 - 🔭 Maîtrise en informatique (B.A.Sc.)Computer Engineering **Bac+3** (Université de Bangalore - Karnataka - Inde)
 
-- 🌱 Actuellement en étude Bac+3 **(CCI formation - Concepteur Développeur d'Application)**
+- ✅ Je viens de terminer mes études en BAC+3 Bac+3 **(CCI formation - Concepteur Développeur d'Application)**
 
 - 📧 Adresse mail : rezaali_121@yahoo.com
 
-- ✅ Mon projet personnel : <a href="https://rai-restaurant.work.gd" target="_blank" rel="noreferrer">🍽️ https://rai-restaurant.work.gd</a>  
+- ✅ Mon Projets d’évaluation du titre professionnel CDA : <a href="https://rai-restaurant.work.gd" target="_blank" rel="noreferrer">🍽️ https://rai-restaurant.work.gd</a>  
 
 - 👨‍💻 Projets sur mon portfolio : [À venir..!](#)
 
