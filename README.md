@@ -12,7 +12,7 @@
 
 - 📧 Email address : rezaali_121@yahoo.com
 
-- ✅ CDA Credential Assessment Projects : <a href="https://rai-restaurant.work.gd" target="_blank" rel="noreferrer">🍽️ https://rai-restaurant.work.gd</a> / <a href="https://rezaalih121.github.io/resto-webapp-frontend/" target="_blank" rel="noreferrer">🍽️ rai-restaurant </a>
+- ✅ CDA Credential Assessment Projects : <a href="https://rai-restaurant.work.gd" target="_blank" rel="noreferrer">🍽️ https://rai-restaurant.work.gd</a>
 
 - 👨‍💻 Projects on my portfolio : [coming soon..!](#)
 
