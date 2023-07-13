@@ -12,7 +12,7 @@
 
 - 📧 Adresse mail : rezaali_121@yahoo.com
 
-- ✅ Mon Projets d’évaluation du titre professionnel CDA : <a href="https://rai-restaurant.work.gd" target="_blank" rel="noreferrer">🍽️ https://rai-restaurant.work.gd</a>  
+- ✅ Mon Projets d’évaluation du titre professionnel CDA :  <a href="https://rai-restaurant.work.gd" target="_blank" rel="noreferrer">🍽️ https://rai-restaurant.work.gd</a>  /  <a href="https://rezaalih121.github.io/resto-webapp-frontend/" target="_blank" rel="noreferrer">🍽️ rai-restaurant </a>
 
 - 👨‍💻 Projets sur mon portfolio : [À venir..!](#)
 
