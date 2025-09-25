@@ -16,7 +16,7 @@
 
 - 👨‍💻 Projets sur mon portfolio : [À venir..!](#)
 
-- 📃 Mon CV : <a href="/IRANNEJAD_RezaAli_CV_V-2.pdf" target="_blank" rel="noreferrer"> 📃 </a>
+- 📃 Mon CV : <a href="/IRANNEJAD_RezaAli_CV_V-3.pdf" target="_blank" rel="noreferrer"> 📃 </a>
 
 <h3 align="left">Connect me :</h3>
 <p align="left">
